@@ -1,0 +1,1 @@
+Kindly download the .html file then directly open it with browser
